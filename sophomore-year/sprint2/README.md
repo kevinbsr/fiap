@@ -54,7 +54,7 @@ java SystemApp
 
 ## 🖼️ Diagrama de Classes
 
-O diagrama UML com a estrutura das classes está disponível na pasta `docs/diagram.drawio`.
+O diagrama UML com a estrutura das classes está disponível na pasta `docs/diagrama.drawio`.
 
 Você pode visualizar ou editar em https://app.diagrams.net.
 
@@ -65,8 +65,8 @@ Este repositório faz parte de uma entrega da **Fase 2 do PBL** do curso de Enge
 Alunos responsáveis por esta versão:  
 **Kevin Benevides**,
 **Otho Cândido**,
-**Amaral**,
-**Thomaz**.
+**Arthur Amaral**,
+**Thomaz Neves**.
 
 ## 📬 Contato
 
